@@ -10,3 +10,4 @@ spring:
         git:
           uri: https://github.com/vaninagodoydh/spring-cloud-example
           default-label: master
+          search-paths: caja
